@@ -1,5 +1,6 @@
 # Proactive-Backend-Failure-Prediction-Model-for-Mobile-Apps
 This model uses real-time metric analysis + hybrid ML to predict failures with lead time for mitigation.
+Modern distributed systems require proactive failure detection. Traditional threshold-based monitoring generates false alerts during legitimate traffic spikes. Our solution combines anomaly detection with temporal pattern recognition to predict failures 5 minutes in advance.
 
 Key Components:
 
